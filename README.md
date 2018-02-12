@@ -1441,5 +1441,5 @@ Realising that my functions file was now 80% functions for making HTML tags, but
 It may be overkill in places but there are certainly times, particularly with inputs of long lists, that it really makes light work of the task.  
 
 ## Version History
-#### 0.1.0
+#### 1.0.0
 Initial Build
